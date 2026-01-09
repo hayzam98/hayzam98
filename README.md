@@ -112,6 +112,6 @@ Si buscas alguien comprometido, con ganas de aprender y crecer, ¡hablemos!
 <div align="center">
 
 💻 Construyendo mi futuro una línea de código a la vez  
-Hecho con 💙 por **Hayzam Adan Martinez**
+Hecho por **Hayzam Adan Martinez**
 
 </div>
